@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eloicasamayor/static/css/main.24c62cde.chunk.css",
+    "main.js": "/eloicasamayor/static/js/main.626b2b9c.chunk.js",
+    "main.js.map": "/eloicasamayor/static/js/main.626b2b9c.chunk.js.map",
+    "runtime-main.js": "/eloicasamayor/static/js/runtime-main.eaadf14a.js",
+    "runtime-main.js.map": "/eloicasamayor/static/js/runtime-main.eaadf14a.js.map",
+    "static/js/2.e9a26ef7.chunk.js": "/eloicasamayor/static/js/2.e9a26ef7.chunk.js",
+    "static/js/2.e9a26ef7.chunk.js.map": "/eloicasamayor/static/js/2.e9a26ef7.chunk.js.map",
+    "static/js/3.ec567a99.chunk.js": "/eloicasamayor/static/js/3.ec567a99.chunk.js",
+    "static/js/3.ec567a99.chunk.js.map": "/eloicasamayor/static/js/3.ec567a99.chunk.js.map",
+    "index.html": "/eloicasamayor/index.html",
+    "static/css/main.24c62cde.chunk.css.map": "/eloicasamayor/static/css/main.24c62cde.chunk.css.map",
+    "static/js/2.e9a26ef7.chunk.js.LICENSE.txt": "/eloicasamayor/static/js/2.e9a26ef7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaadf14a.js",
+    "static/js/2.e9a26ef7.chunk.js",
+    "static/css/main.24c62cde.chunk.css",
+    "static/js/main.626b2b9c.chunk.js"
+  ]
+}
