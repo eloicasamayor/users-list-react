@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+-> You can see the deployed app [here](https://eloicasamayor.github.io/users-list-react/)
+
 ## Available Scripts
 
 In the project directory, you can run:
